@@ -3,4 +3,6 @@
 3 电脑多个github账号 指定一个上传 https://blog.csdn.net/luolianxi/article/details/106483748
  sed -i 's/koolshare.ngrok.wang/ks.ddnsto.com/g'/koolshare/scripts/ks_app_install.sh
  sed -i 's/koolshare.ngrok.wang/ks.ddnsto.com/g'/koolshare/webs/Main_Soft_center.asp
+ [重置软件中心](https://www.right.com.cn/forum/thread-7512653-1-1.html)
  cd /tmp
+ 
