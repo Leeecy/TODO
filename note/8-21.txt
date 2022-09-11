@@ -6,3 +6,4 @@
  [重置软件中心](https://www.right.com.cn/forum/thread-7512653-1-1.html)
  cd /tmp
  
+vClash
